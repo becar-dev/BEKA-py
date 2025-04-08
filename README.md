@@ -51,7 +51,7 @@ Here are some of my pinned works (see top of my GitHub profile):
 - 📩 Telegram: [@becar_dev](https://t.me/becar_dev)  
 - 💼 LinkedIn: *soon*  
 - 🌐 Portfolio Website: *coming soon*  
-- ✉️ Email: youremail@example.com
+- ✉️ Email: crezy007rp@gmail.com
 
 ---
 
