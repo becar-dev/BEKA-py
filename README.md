@@ -40,8 +40,8 @@ Here are some of my pinned works (see top of my GitHub profile):
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=becar_dev&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=becar_dev&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=becar-dev&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=becar-dev&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
